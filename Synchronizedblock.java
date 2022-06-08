@@ -1,6 +1,6 @@
 package syncronization;
 
-public class Synchronizedblock12 {
+public class Synchronizedblock123 {
 	int total_seats=10;
 
 	 void  busTicket(int seats) {
