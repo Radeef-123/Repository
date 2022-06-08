@@ -1,6 +1,6 @@
 package syncronization;
 
-public class synch {
+public class synch123 {
 	int total_seats=10;
 	  
 	  void  busTicket(int seats) {
@@ -19,7 +19,7 @@ public class synch {
 
 	}
 
-	class BusTicketApp extends Thread
+	class BusTicketApps extends Thread
 	{
 	static  synch  b;	
 	int seats;
